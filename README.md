@@ -13,7 +13,7 @@ Project tìm hiểu về Photometric stereo. Thuật toán khôi phục ảnh 3D
 ## Tài liệu tham khảo
 - [Bài giảng của tiến sĩ Shree K. Nayar](https://www.youtube.com/watch?v=BEGMPLcnM2Q&list=PL2zRqk16wsdpyQNZ6WFlGQtDICpzzQ925)
 - [RobustPhotometricStereo](https://github.com/yasumat/RobustPhotometricStereo/)
-- [ChatGPT] (https://chatgpt.com/) 
+- [ChatGPT](https://chatgpt.com/) 
 
 ## Cài đặt
 1. Clone repo:
