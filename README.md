@@ -23,7 +23,6 @@ Project tìm hiểu về Photometric stereo. Thuật toán khôi phục ảnh 3D
     pip install requirements
 3. Chạy chương trình:
     ```sh
-    python app.pypy
-
+    python app.py
 
 
